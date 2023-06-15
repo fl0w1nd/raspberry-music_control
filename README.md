@@ -1,7 +1,5 @@
 # 树莓派基于python的Flask web音乐播放器 #
 
-初学树莓派的作品，代码写的不是太好。
-
 ### 界面 ###
 
 ![](https://raw.githubusercontent.com/fl0w1nd/img/master/image/music_control.png)
