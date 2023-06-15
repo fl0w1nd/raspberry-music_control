@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="17px" viewBox="0 0 12 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>Previous</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Previous" fill="#472F91">
+            <rect id="|" x="0" y="0" width="2" height="17" rx="0.5"></rect>
+            <path d="M2,16.0179345 C2,16.5853417 2.29069433,16.8081012 2.64928395,16.5179737 L11.7302118,9.17078129 C12.0910555,8.87883007 12.0888015,8.41026416 11.7302118,8.12013665 L2.64928395,0.772944201 C2.28844026,0.480992976 2,0.706691908 2,1.27298349 L2,16.0179345 Z" id="&lt;" transform="translate(7.000000, 8.645161) scale(-1, 1) translate(-7.000000, -8.645161) "></path>
+        </g>
+    </g>
+</svg>
